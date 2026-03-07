@@ -47,3 +47,15 @@ An interactive dashboard was created to visualize KPIs such as:
 
 ## Outcome
 This project helps hospitals identify operational patterns, optimize doctor workload, and track patient trends for better decision making.
+
+## 🧠 Business Impact
+The analysis helps improve service levels, reduce stock-outs, and enhance supply chain efficiency.
+
+
+
+---
+
+👤 **Author**  
+Rahul Kumar R
+
+Aspiring Data Analyst 
